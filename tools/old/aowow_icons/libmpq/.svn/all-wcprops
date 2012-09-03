@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/inffixed.h
+END
+wave.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/wave.cpp
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/deflate.c
+END
+explode.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/explode.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/zutil.c
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/gzio.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/deflate.h
+END
+extract.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/extract.cpp
+END
+parser.s
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/parser.s
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/crc32.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/zutil.h
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/crc32.h
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/trees.c
+END
+huffman.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/huffman.cpp
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/zconf.h
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/trees.h
+END
+common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/common.cpp
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/inffast.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/compress.c
+END
+parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/parser.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/Makefile
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/inffast.h
+END
+explode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/explode.cpp
+END
+mpq.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/mpq.h
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/zlib.h
+END
+wave.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/wave.h
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/inftrees.c
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/inflate.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/uncompr.c
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/inftrees.h
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/inflate.h
+END
+huffman.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/huffman.h
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/adler32.c
+END
+mpq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/mpq.cpp
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/common.h
+END
+infback.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/aowow/!svn/ver/25/tools/aowow_icons/libmpq/infback.c
+END

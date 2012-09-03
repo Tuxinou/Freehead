@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="261"
+   height="119"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docbase="/mnt/lfs/aowow/aowow/tools/images"
+   sodipodi:docname="logo.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/mnt/lfs/aowow/aowow/tools/images/logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 59.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="261 : 59.5 : 1"
+       inkscape:persp3d-origin="130.5 : 39.666667 : 1"
+       id="perspective22" />
+    <linearGradient
+       id="linearGradient6412">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.80808079;"
+         offset="0"
+         id="stop6414" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.25252524;"
+         offset="1"
+         id="stop6416" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4112">
+      <stop
+         style="stop-color:#e30000;stop-opacity:1;"
+         offset="0"
+         id="stop4114" />
+      <stop
+         style="stop-color:#ff7600;stop-opacity:0.21212122;"
+         offset="1"
+         id="stop4116" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4112"
+       id="radialGradient4346"
+       cx="129.8042"
+       cy="100.29004"
+       fx="129.8042"
+       fy="100.29004"
+       r="99.804199"
+       gradientTransform="matrix(1,0,0,8.7270486e-2,0,91.537679)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4112"
+       id="radialGradient4348"
+       cx="150.48213"
+       cy="6.874723"
+       fx="150.48213"
+       fy="6.874723"
+       r="88.648438"
+       gradientTransform="matrix(1.866023,-5.2000042e-7,7.6963316e-8,0.2761831,-151.32655,37.720537)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6412"
+       id="radialGradient6420"
+       cx="129.8042"
+       cy="100.29004"
+       fx="129.8042"
+       fy="100.29004"
+       r="100.3042"
+       gradientTransform="matrix(1,0,0,9.1820293e-2,0,91.081378)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="119.28687"
+     inkscape:cy="33.559677"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="261px"
+     height="119px"
+     inkscape:showpageshadow="false"
+     showgrid="true"
+     inkscape:window-width="872"
+     inkscape:window-height="715"
+     inkscape:window-x="203"
+     inkscape:window-y="155" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;opacity:1;fill:url(#radialGradient4348);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.19607843;font-family:Bitstream Vera Sans"
+       x="15.921875"
+       y="67.65625"
+       id="text2160"><tspan
+         sodipodi:role="line"
+         id="tspan2162"
+         x="15.921875"
+         y="67.65625"
+         style="font-size:72px;fill:url(#radialGradient4348);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-opacity:0.19607843;font-family:Impact">AoWoW</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:url(#radialGradient4346);fill-opacity:1.0;stroke:url(#radialGradient6420);stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;fill-rule:nonzero;opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       x="29.402344"
+       y="105.25586"
+       id="text2164"><tspan
+         sodipodi:role="line"
+         id="tspan2166"
+         x="29.402344"
+         y="105.25586"
+         style="font-size:18px;fill:url(#radialGradient4346);fill-opacity:1.0;stroke:url(#radialGradient6420);stroke-opacity:1;fill-rule:nonzero;stroke-width:0.6;stroke-miterlimit:4;stroke-dasharray:none">Web Mangos Interface</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.31627909;fill-rule:nonzero;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6422"
+       width="260.80875"
+       height="2"
+       x="4.1912537"
+       y="79" />
+  </g>
+</svg>
