@@ -1,5 +1,4 @@
 configs/config.php
-cache/*
 *.aww
 *.tpl.php
 .idea/*
