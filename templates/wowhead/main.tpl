@@ -16,21 +16,21 @@
 </head>
 <body>
 	<div id="layers"></div>
+
     <div class="top">
      <div id="toplinks" class="toplinks">{if $user}<a href="?user={$user.name}">{$user.name}</a>|<a href="?account=signout">{#Sign_out#}</a>{else}<a href="?account=signin">{#Sign_in#}</a>{/if}
-        |<a href="javascript:;" id="toptabs-menu-language">{#Language#} <small>&#9660;</small></a>
+        | <a href="#" id="toplinks-feedback" class="icon-email">{#Feedback#}</a> <br>
+{#Language#}: <a href="/">Русский</a> |  <a href="/en">English</a> |  <a href="/fr">Français</a> |  <a href="/de">Deutsch</a> <br> 
        <script type="text/javascript">g_initHeaderMenus()</script>
      </div>
     </div>
+
+
 	<div id="home">
-		<h1>{$title}</h1>
-		<span id="h43jv6jk346" class="menu-buttons"></span>
-		<script type="text/javascript">
-			Menu.addButtons(ge('h43jv6jk346'), mn_path);
-		</script>
+
 		
 		<div class="pad"></div>
-
+<br>
 		<div class="home-search" id="home-search">
 		<form name="searchform" method="get" action="." onsubmit="if(trim(this.elements[0].value) == '') return false">
 			<input name="search" type="text" id="kghjklvhj43v6" />
@@ -38,7 +38,14 @@
 		</div>
 		
 		<script type="text/javascript">var _ = ge('kghjklvhj43v6'); LiveSearch.attach(_); _.focus();</script>
+<br>
+		<h1>{$title}</h1>
+		<span id="h43jv6jk346" class="menu-buttons"></span>
+		<script type="text/javascript">
+			Menu.addButtons(ge('h43jv6jk346'), mn_path);
+		</script>
 
+<br>
 {if $news}
 		<div class="news">
 			<div class="news-list text">
