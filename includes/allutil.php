@@ -21,7 +21,10 @@ function checklocale()
 checklocale();
 // Это должно быть ПОСЛЕ checklocale()
 require_once('includes/alllocales.php');
-
+if($AoWoWconf['locale'] = 8)
+{ include('configs/phrases/ruru.php'); }
+elseif ($AoWoWconf['locale'] = 0)
+{ include('configs/phrases/enen.php'); }
 
 /* ================ MISC FUNCTIONS ================ */
 function str_normalize($str)
