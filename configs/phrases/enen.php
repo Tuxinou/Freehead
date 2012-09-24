@@ -16,7 +16,7 @@ $titlephrases = array
 "We've got what you need!",
 "You haven't found the secret title yet",
 "Use it to find Mankrik's wife",
-"...and knowing is half the battle!,
+"...and knowing is half the battle!",
 "The Original",
 "The second w is lowercase",
 "Thrall-tested, Jaina-approved",
