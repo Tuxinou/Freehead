@@ -4,3 +4,4 @@ cache/*
 *.tpl.php
 .idea/*
 setup2/*
+.DS_Store
