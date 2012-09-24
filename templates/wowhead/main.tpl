@@ -1,6 +1,6 @@
 <html>
 <head>
-	{include file='head.tpl'}
+	{include file='head_main.tpl'}
 	<style type="text/css">
 {literal}
         .top { margin-left: auto; margin-right: auto; max-width: 1240px; min-width: 998px; }
