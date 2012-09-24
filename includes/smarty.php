@@ -21,6 +21,8 @@ class Smarty_AoWoW extends Smarty
 		$this->compile_dir = $cwd.'/cache/templates/'.$AoWoWconf['aowow']['template'].'/';
 		$this->config_dir = $cwd.'/configs/';
 		$this->cache_dir = $cwd.'/cache/';
+	       	// Режим отладки
+    	       	$this->debugging = $AoWoWconf['debug'];
 		// Разделители
 		$this->left_delimiter = '{';
 		$this->right_delimiter = '}';
