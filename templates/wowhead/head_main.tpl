@@ -11,9 +11,9 @@ function array_random($arr, $num = 1) {
 }
 
 
-if($AoWoWconf['locale'] = 8)
+if($AoWoWconf['locale'] == 8)
 { include('configs/phrases/ruru.php'); }
-elseif ($AoWoWconf['locale'] = 0)
+elseif ($AoWoWconf['locale'] == 0)
 { include('configs/phrases/enen.php'); }
 
 print_r(array_random($titlephrases));
