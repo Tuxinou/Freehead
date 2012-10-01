@@ -203,7 +203,7 @@ if(!$quest = load_cache(QUEST_PAGE, $cache_key))
 
 	/*             НАГРАДЫ И ТРЕБОВАНИЯ             */
 
-	if($quest['RequiredSkillValue']>0 && $quest['SkillOrClassMask']>0)
+	if($quest['RequiredSkillPoints']>0 && $quest['SkillOrClassMask']>0)
 	{
 		// Требуемый уровень скилла, что бы получить квест
 		/*
@@ -223,7 +223,7 @@ if(!$quest = load_cache(QUEST_PAGE, $cache_key))
 		// TODO: skill localization
 		$quest['reqskill'] = array(
 			'name' => $DB->selectCell('SELECT name_loc'.$_SESSION['locale'].' FROM ?_skill WHERE skillID=?d LIMIT 1',$quest['SkillOrClassMask']),
-			'value' => $quest['RequiredSkillValue']
+			'value' => $quest['RequiredSkillPoints']
 		);
 	}
 	elseif($quest['SkillOrClassMask']<0)
@@ -266,11 +266,11 @@ if(!$quest = load_cache(QUEST_PAGE, $cache_key))
 				AND si.id=s.spellicon
 			LIMIT 1',
 			$spell_cols[0],
-			$quest['SrcSpell']
+			$quest['SourceSpell']
 		);
 		if($tmp)
 		{
-			$quest['SrcSpell'] = array(
+			$quest['SourceSpell'] = array(
 				'name' => $tmp['spellname_loc'.$_SESSION['locale']],
 				'entry' => $tmp['spellID']);
 			allspellsinfo2($tmp);
@@ -308,7 +308,7 @@ if(!$quest = load_cache(QUEST_PAGE, $cache_key))
 			$quest['spellreward'] = array(
 				'name' => $tmp['spellname_loc'.$_SESSION['locale']],
 				'entry' => $tmp['spellID'],
-				'realentry' => $quest['RewardSpellCast']>0 ? $quest['ReardwSpellCast'] : $quest['RewardSpell']);
+				'realentry' => $quest['RewardSpellCast']>0 ? $quest['RewardSpellCast'] : $quest['RewardSpell']);
 			allspellsinfo2($tmp);
 		}
 		unset($tmp);

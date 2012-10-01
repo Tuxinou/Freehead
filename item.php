@@ -187,7 +187,7 @@ if(!$item = load_cache(ITEM_PAGE, $cache_key))
 			SELECT q.?# {, l.Title_loc?d AS Title_loc}
 			FROM quest_template q
 			{ LEFT JOIN (locales_quest l) ON l.entry=q.Id AND ? }
-			WHERE SrcItemId=?d
+			WHERE SourceItemId=?d
 		',
 		$quest_cols[2],
 		$_SESSION['locale'] > 0 ? $_SESSION['locale'] : DBSIMPLE_SKIP,

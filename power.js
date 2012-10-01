@@ -1463,7 +1463,8 @@ var g_types = {
 };
 var g_locales = {
 	0 : "enus",
-	6 : "eses"
+	6 : "eses",
+	8 : "ruru"
 };
 var g_file_races = {
 	10 : "bloodelf",
