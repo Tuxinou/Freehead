@@ -100,7 +100,7 @@
 
 
 <div class="clear"></div><div class="padded">{#Item_group_by#}:
-    <input type="radio" name="gb" value="" id="gb-none" checked="checked" /><label for="gb-none">{#No#}</label>
+    <input type="radio" name="gb" value="" id="gb-none" checked="checked" /><label for="gb-none">{#No_groupping#}</label>
     <input type="radio" name="gb" value="1" id="gb-slot" /><label for="gb-slot">{#Slot#}</label>
     <input type="radio" name="gb" value="2" id="gb-level" /><label for="gb-level">{#Level#}</label>
     <input type="radio" name="gb" value="3" id="gb-source" /><label for="gb-source">{#Source#}</label>
