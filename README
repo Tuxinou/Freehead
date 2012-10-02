@@ -1,3 +1,5 @@
+---------------Russian Description----------------
+
 TrinityCore database World of Warcraft 3.3.5 (build 12340)
 
 Данное программное обеспечение распространяется "как есть".
@@ -13,4 +15,24 @@ OS:
 PHP:
 MySQL:
 APC/eAcc:     (yes/no)
+Rev Hash:
+  
+  
+-------------English Description---------------
+
+TrinityCore database World of Warcraft 3.3.5 (build 12340)
+
+This software is provided "as is".
+If you post a link to this repository on any other source other than trinitycore.org, please set a minimum HIDE of 20 reputation / 50 post
+The development and improvement of the system is based on your bug report. If you find any mistake, please point it to the Issues section of the repository
+Change of copyrights is not intended, but I hope that you save them.
+If you change the php, tpl, js, conf files yourself, please do not write to me asking for help and the fact that you have that is not working.
+
+
+Complete application form for the Issues sector:
+
+OS:
+PHP:
+MySQL:
+APC / eAcc: (yes / no)
 Rev Hash:
