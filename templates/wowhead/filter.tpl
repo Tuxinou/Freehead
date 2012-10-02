@@ -57,7 +57,7 @@
 <option value="12">{#Trinket#}</option>
 <option value="17">{#Two_hand#}</option>
 <option value="6">{#Waist#}</option>
-<option value="9">{#Wrists#}</option>
+<option value="9">{#Wrist#}</option>
 </select>
 </div>
 
