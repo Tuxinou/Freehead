@@ -11,7 +11,7 @@ function ma_Init() {
 	ma_AddOptions(ge("maps-dungeons"), [133, 491, 717, 718, 719, 722, 796, 978, 1337, 1417, "1583b", 1584, 2017, 2057, 2100, 2366, 2367, 2437, 2557, 3562, 3713, 3714, 3715, 3716, 3717, 3789, 3790, 3791, 3792, 3846, 3847, 3849, 4095]);
 	ma_AddOptions(ge("maps-raids"), [19, 2159, 2717, 3428, 3429, 3456, 3606, 3607, 3618, 3805, 3836, 3842, 3959]);
 	ma_AddOptions(ge("maps-battlegrounds"), [2597, 3277, 3358, 3820, 4710, 4384]);
-	ma_AddOptions(ge("maps-arenas"), [3702, 4378, 3698, 4406, 3968])
+	ma_AddOptions(ge("maps-arenas"), [3702, 4378, 3698, 4406, 3968]);
 	myMapper = new Mapper({
 		parent: "dbs3b53",
 		editable: true,
